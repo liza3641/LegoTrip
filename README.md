@@ -24,16 +24,16 @@
 
 ### **메인 화면**
 
-![메인 화면](https://user-images.githubusercontent.com/41173881/102377721-541c7800-4008-11eb-801a-7d3c11e39b16.png)
+<img src = "https://user-images.githubusercontent.com/41173881/102377721-541c7800-4008-11eb-801a-7d3c11e39b16.png" width="200px">
 
 ### **다이어리 페이지**
 
-![다이어리 페이지](https://user-images.githubusercontent.com/41173881/102377819-7615fa80-4008-11eb-89de-1bfeff647692.png)
+<img src = "https://user-images.githubusercontent.com/41173881/102377819-7615fa80-4008-11eb-89de-1bfeff647692.png" width="200px">
 
 ### **계획 작성 페이지**
 
-![계획 작성 페이지](https://user-images.githubusercontent.com/41173881/102377960-9b0a6d80-4008-11eb-9800-dc485d826b0b.png)
+<img src = "https://user-images.githubusercontent.com/41173881/102377960-9b0a6d80-4008-11eb-9800-dc485d826b0b.png" width="200px">
 
 ### **숙소 예약 페이지**
 
-![숙소 예약 페이지](https://user-images.githubusercontent.com/41173881/102377995-a3fb3f00-4008-11eb-9996-6ba70c9b1472.png)
+<img src = "https://user-images.githubusercontent.com/41173881/102377995-a3fb3f00-4008-11eb-9996-6ba70c9b1472.png" width="200px">
